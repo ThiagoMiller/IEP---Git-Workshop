@@ -1,0 +1,2 @@
+# Filter q20
+samtools view -q20 -b mapped.bam > mapped.q20.bam
